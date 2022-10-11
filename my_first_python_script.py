@@ -17,9 +17,8 @@ print('My favorite activity:', my_activity)
 my_animal = 'Deer'
 print ('My favorite animal:', my_animal)
 
-
-my_name = sys.argv[1]
-my_color = sys.argv[2]
-my_activity = sys.argv[3]
-my_animal = sys.argv[4]
-print(my_name,'+',my_color,'+',my_activity,'+',my_animal) 
+name = sys.argv[1]
+color = sys.argv[2]
+activity = sys.argv[3]
+animal = sys.argv[4]
+print(name,'+',color,'+',activity,'+',animal) 
