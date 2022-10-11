@@ -1,3 +1,0 @@
-This is a new file that is still not added to git
-ANOTHER LINE ADDED AFTER ADDING
-
